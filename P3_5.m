@@ -1,0 +1,1 @@
+net = trainNetwork(trainData,trainLabels,layers,options);

@@ -1,0 +1,1 @@
+[trainData,trainLabels,valData,valLabels,testData,testLabels] = extractCifar10('cifar-10-batches-mat');

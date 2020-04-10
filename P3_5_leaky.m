@@ -1,0 +1,1 @@
+leaky_net = trainNetwork(trainData,trainLabels,leaky_layers,options);
